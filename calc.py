@@ -25,3 +25,5 @@ try:
 except:
     if c == "//" or c == "**" or c == "%" :
         print("The operators : [// , % , **] are not yet included.")
+
+#WELL THE EXCEPT BLOCK AINT FOR THIS, BUT FOR ERRORS.......... and no need to def a,d,m,s etc cause they are inbuilt. Also,  it will  crash if a char. is input, cause of int clause.
